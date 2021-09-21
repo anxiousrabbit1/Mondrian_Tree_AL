@@ -1,6 +1,8 @@
 # Run experiments for the active learning visualization project
 
-Original paper: Active Learning for Non-Parametric Regression Using Purely Random Trees
+run `./run_examples.py` to create the prediction values and test samples for the CASP experiment.
+
+# Original paper: Active Learning for Non-Parametric Regression Using Purely Random Trees
 
 Algorithms and experiments for NeurIPS paper "Active Learning for Non-Parametric Regression 
 Using Purely Random Trees" available at:
