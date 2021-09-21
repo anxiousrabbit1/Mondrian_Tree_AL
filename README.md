@@ -1,4 +1,6 @@
-# Active Learning for Non-Parametric Regression Using Purely Random Trees
+# Run experiments for the active learning visualization project
+
+Original paper: Active Learning for Non-Parametric Regression Using Purely Random Trees
 
 Algorithms and experiments for NeurIPS paper "Active Learning for Non-Parametric Regression 
 Using Purely Random Trees" available at:
