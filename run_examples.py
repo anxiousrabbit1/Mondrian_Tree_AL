@@ -48,7 +48,7 @@ def  main():
     # example_cl_mt()
     # example_ccpp_mt()
     # example_air_mt()
-    # example_casp_mt()
+    example_casp_mt()
     # example_concrete_mt()
     # example_wine_mt()
 
@@ -62,7 +62,7 @@ def  main():
     # example_air_mf()
     # example_casp_mf()
     # example_concrete_mf()
-    example_wine_mf()
+    # example_wine_mf()
 
 
 if __name__ == '__main__':
